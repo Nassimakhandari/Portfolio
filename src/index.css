@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.project-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(208, 91, 204, 0.619);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+.bg-contact{
+    background-image: url(./assets/images/18.jpg);
+background-size:cover ;
+}
