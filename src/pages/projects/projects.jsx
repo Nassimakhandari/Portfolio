@@ -91,7 +91,7 @@ const Projects = () => {
                         <p className="mt-2 text-sm text-gray-500 leading-relaxed">
                             The Maybelline Cosmetics Website is a modern and visually appealing e-commerce platform designed to showcase Maybelline’s extensive range of beauty products. Built using <span className='text-[#E4B1F0] text-base'>React</span>, this website aims to provide an interactive and seamless shopping experience for makeup enthusiasts and beauty aficionados.
                         </p>
-                        <a href="hhttps://magenta-wisp-d58e57.netlify.app/" target="_blank" rel="noopener noreferrer" className="mt-4 inline-block px-4 py-2 rounded-lg text-white text-sm tracking-wider border-none outline-none bg-[#7E60BF] hover:bg-[#E4B1F0] active:bg-[#7E60BF]">View</a>
+                        <a href="https://fluffy-concha-9f2310.netlify.app/" target="_blank" rel="noopener noreferrer" className="mt-4 inline-block px-4 py-2 rounded-lg text-white text-sm tracking-wider border-none outline-none bg-[#7E60BF] hover:bg-[#E4B1F0] active:bg-[#7E60BF]">View</a>
                     </div>
                 </div>
 
