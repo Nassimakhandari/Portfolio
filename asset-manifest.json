@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2175fbaa.css",
+    "main.js": "/portfolio/static/js/main.8cf97eb2.js",
+    "static/media/delicious.png": "/portfolio/static/media/delicious.8713488ed0547bd406ae.png",
+    "static/media/movie.png": "/portfolio/static/media/movie.c20538e0fcac3276f1f7.png",
+    "static/media/shop.png": "/portfolio/static/media/shop.2853d0f020709d398fe2.png",
+    "static/media/yammy.png": "/portfolio/static/media/yammy.55b6f68be4c6fd88dca5.png",
+    "static/media/maybelline.png": "/portfolio/static/media/maybelline.8511514f2c78ce62579e.png",
+    "static/media/18.jpg": "/portfolio/static/media/18.186254fe14cb0bf7bed8.jpg",
+    "static/media/social.png": "/portfolio/static/media/social.bd97e983abdfa040fca7.png",
+    "static/media/My_Profile.png": "/portfolio/static/media/My_Profile.ae5d54377a02026ee3c6.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.c34b5275f0f124e604d1.png",
+    "static/media/avatar.webp": "/portfolio/static/media/avatar.5bd2e6927fb6bc918769.webp",
+    "static/media/bg.png": "/portfolio/static/media/bg.690207918c9df3b8592a.png",
+    "index.html": "/portfolio/index.html",
+    "main.2175fbaa.css.map": "/portfolio/static/css/main.2175fbaa.css.map",
+    "main.8cf97eb2.js.map": "/portfolio/static/js/main.8cf97eb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2175fbaa.css",
+    "static/js/main.8cf97eb2.js"
+  ]
+}
